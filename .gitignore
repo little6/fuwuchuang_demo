@@ -1,0 +1,14 @@
+*.log
+logs
+.gradle
+/build/*
+WebRoot/WEB-INF/classes/
+/bin
+/target
+*.tex
+*.pdf
+*.iml
+*.ipr
+*.iws
+.idea/
+.DS_Store
